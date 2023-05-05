@@ -1,0 +1,20 @@
+{
+    "name": "weather_data_srg01",
+    "title": "WEATHER_DATA_SRG01",
+    "notes": "ข้อมูลมลพิษในอากาศของประเทศไทย",
+    "data_type": "ข้อมูลสถิติ",
+    "owner_org": "tu", 
+    "data_source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlEs3FxFPwm-dpvU1YdsfRgsbfT9WdiXJHZm9kJgGTziPnk-y3TWtftbSbxj6Fe_g0NxYgqyVHTVU5/pubhtml?gid=1397577608&amp;single=true&amp;widget=true&amp;headers=false",
+    "maintainer": "Thanaporn Sumpaongen",
+    "update_frequency_unit": "วัน",
+    "data_format": [
+      "CSV"
+    ],
+    "maintainer_email": "thanaporn.sump@dome.tu.ac.th",
+    "objective": [
+      "เพื่อการให้บริการประชาชน"
+    ],
+    "data_category": "ข้อมูลสาธารณะ",
+    "geo_coverage": "ประเทศ",
+    "license_id": "License not specified"
+}
